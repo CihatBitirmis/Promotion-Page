@@ -1,1 +1,1 @@
-# Promotion-Page
+Junior Level Simple Promotion Page
